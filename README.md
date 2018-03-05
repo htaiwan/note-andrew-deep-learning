@@ -9,10 +9,10 @@
 
 ---
 
-> #### [Assginment 1 - Logistic Regression with a Neural Network mindset](https://github.com/htaiwan/note-andrew-deep-learning/blob/master/Assignment/1-1.md)
-> #### [Assginment 2 - Planar data classification with one hidden layer](https://github.com/htaiwan/note-andrew-deep-learning/blob/master/Assignment/1-2.md)
-> #### [Assginment 3 - Building your Deep Neural Network: Step by Step](https://github.com/htaiwan/note-andrew-deep-learning/blob/master/Assignment/1-3.md)
-> #### [Assginment 4 - Deep Neural Network for Image Classification: Application](https://github.com/htaiwan/note-andrew-deep-learning/blob/master/Assignment/1-4.md)
+> #### [Assginment 1 - Logistic Regression with a Neural Network mindset](https://github.com/htaiwan/note-andrew-deep-learning/blob/master/Assignment/Course1/1-1.md)
+> #### [Assginment 2 - Planar data classification with one hidden layer](https://github.com/htaiwan/note-andrew-deep-learning/blob/master/Assignment/Course1//1-2.md)
+> #### [Assginment 3 - Building your Deep Neural Network: Step by Step](https://github.com/htaiwan/note-andrew-deep-learning/blob/master/Assignment/Course1//1-3.md)
+> #### [Assginment 4 - Deep Neural Network for Image Classification: Application](https://github.com/htaiwan/note-andrew-deep-learning/blob/master/Assignment/Course1//1-4.md)
 
 
 ## Course 2 - Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
