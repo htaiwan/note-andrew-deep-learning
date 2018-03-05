@@ -23,11 +23,11 @@
 
 ---
 
-> #### [Assginment 1 - initialization](https://github.com/htaiwan/note-andrew-deep-learning/blob/master/Assignment/2-1.md)
-> #### [Assginment 2 - Regularization](https://github.com/htaiwan/note-andrew-deep-learning/blob/master/Assignment/2-2.md)
-> #### [Assginment 3 - Gradient Checking](https://github.com/htaiwan/note-andrew-deep-learning/blob/master/Assignment/2-3.md)
-> #### [Assginment 4 - Optimization Methods](https://github.com/htaiwan/note-andrew-deep-learning/blob/master/Assignment/2-4.md)
-> #### [Assginment 5 - TensorFlow Tutorial](https://github.com/htaiwan/note-andrew-deep-learning/blob/master/Assignment/2-5.md)
+> #### [Assginment 1 - initialization](https://github.com/htaiwan/note-andrew-deep-learning/blob/master/Assignment/Course2/2-1.md)
+> #### [Assginment 2 - Regularization](https://github.com/htaiwan/note-andrew-deep-learning/blob/master/Assignment/Course2/2-2.md)
+> #### [Assginment 3 - Gradient Checking](https://github.com/htaiwan/note-andrew-deep-learning/blob/master/Assignment/Course2/2-3.md)
+> #### [Assginment 4 - Optimization Methods](https://github.com/htaiwan/note-andrew-deep-learning/blob/master/Assignment/Course2/2-4.md)
+> #### [Assginment 5 - TensorFlow Tutorial](https://github.com/htaiwan/note-andrew-deep-learning/blob/master/Assignment/Course2/2-5.md)
 
 ## Course 3 - Structuring Machine Learning Projects
 
