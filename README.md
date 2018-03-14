@@ -52,3 +52,10 @@
 
 ## Course 5 - Sequence Models
 
+> #### [Week 1 - Recurrent Neural Networks](https://github.com/htaiwan/note-andrew-deep-learning/blob/master/Note/5-1.md)
+
+---
+
+> #### [Assginment 1 - Building a recurrent neural network - step by step](https://github.com/htaiwan/note-andrew-deep-learning/blob/master/Assignment/Course5/5-1.md)
+> #### [Assginment 2 - Dinosaur Island - Character-Level Language Modeling](https://github.com/htaiwan/note-andrew-deep-learning/blob/master/Assignment/Course5/5-2.md)
+> #### [Assginment 3 - Jazz improvisation with LSTM](https://github.com/htaiwan/note-andrew-deep-learning/blob/master/Assignment/Course5/5-3.md)
